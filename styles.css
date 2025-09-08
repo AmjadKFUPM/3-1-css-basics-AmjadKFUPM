@@ -115,7 +115,7 @@ h4.trending-tag, h5.trending-tag, h6.trending-tag {
     font-family: Arial;
 }
 
-/* TODO 9: Universal Selector 1*/
+/* TODO 9: Universal Selector */
 /* Use universal selector to add box-sizing: border-box to all elements */
 * {
     box-sizing: border-box;
